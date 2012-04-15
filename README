@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4018
+
+This is a simple bash script that can be used as a filter in vim to clean your java of unused imports.
+
+If you have the JavaImp plugin installed (vimscript #325) you can use it in conjunction with this to also sort your imports as well as clean them.
+
+I have been using it in my own code and it works quite nicely.  See http://paulbourke.blogspot.com/2012/04/clean-your-java-imports-in-vim.html for more info.
